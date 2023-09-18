@@ -2,6 +2,26 @@
 
 There's a very easy way to use this theme, and there's a hard way. For most people (including myself!), the easy route is recommended. If you're an advanced user and want to tinker with the hard way (using ruby gems), then [skip the easy way](https://github.com/daattali/beautiful-jekyll#the-hard-way-using-ruby-gems) if you know what you're doing.
 
+### Overview of steps required
+
+There are only three simple steps, ....  
+
+Here is a 40-second video ....
+
+<img src="../img/install-steps.gif" style="width:100%;" alt="Installation steps" />
+
+
+<div class="gs-section-01" markdown="1">
+
+
+### 1. Fork the Beautiful Jekyll repository 
+
+Fork the [repository](https://github.com/daattali/beautiful-jekyll) 
+by clicking the Fork button on the top right corner in GitHub.
+
+
+</div>
+
 ## The easy way (recommended!)
 
 Getting started is *literally* as easy as 1-2-3 :smile:
@@ -33,3 +53,14 @@ Note that this was the easy way to *create* your website, but it does come at a 
 ## The hard way (using ruby gems)
 
 If you followed the easy method above, then you already have your site and you can skip this section! If you want to use Beautiful Jekyll as a ruby gem instead, follow the [advanced installation instructions](https://beautifuljekyll.com/getstarted/#install-steps-hard). This is harder to set up initially, but it makes it super easy to keep your site up to date with Beautiful Jekyll when more features are added in the future.
+
+<style>
+
+.gs-section-01 h3 { 
+     color: red }
+
+.gs-section-01 p {
+     font-size: 30px;
+}
+
+</style>
