@@ -13,5 +13,5 @@ Let's connect.
 ### My story
 
 To learn more about me and my projects: please check out:
-- my personal page ->  https://channyc.dev/
-- my github page -> https://nyeinchan85/github.io
+- <a href="https://channyc.dev/">my personal page</a> 
+- <a href="https://nyeinchan85/github.io">my github page</a>
