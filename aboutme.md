@@ -4,7 +4,7 @@ title: About me
 subtitle: Welcome to my world !!!
 ---
 
-My name is Nyein Chan Kyaw. I am a full-stack engineer/IT manager/Business Analyst from New York City. 
+My name is Nyein Chan Kyaw. I professionally work as an IT Manager. I'm from New York City. 
 
 - I am currently pursuing a master's degree in Program Evaluation and Data Analysis at Arizona State University.
 
