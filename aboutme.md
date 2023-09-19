@@ -8,7 +8,7 @@ My name is Nyein Chan Kyaw. I am a full-stack engineer/IT manager/Business Analy
 
 - I am currently pursuing a master's degree in Program Evaluation and Data Analysis at Arizona State University.
 
-What else do you need?
+Let's connect.
 
 ### My story
 
