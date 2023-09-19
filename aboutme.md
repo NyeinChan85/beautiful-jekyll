@@ -14,4 +14,4 @@ Let's connect.
 
 To learn more about me and my projects: please check out:
 - <a href="https://channyc.dev/">my personal page</a> 
-- <a href="https://nyeinchan85/github.io">my github page</a>
+- <a href="https://github.com/NyeinChan85">my github page</a>
