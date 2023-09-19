@@ -8,8 +8,7 @@ There are only three simple steps, ....
 
 Here is a 40-second video ....
 
-<img src="https://github.com/NyeinChan85/nyeinchan85.github.io/blob/Main/assets/img/install-steps.gif" style="width:70%;" alt="Installation steps" />
-
+![Installation steps](assets/img/install-steps.gif)
 
 <div class="gs-section-01" markdown="1">
 
