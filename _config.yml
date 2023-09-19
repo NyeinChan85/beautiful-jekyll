@@ -4,6 +4,7 @@
 # the initial set up you won't need to come back to this file often.
 
 # --- Required options --- #
+<div class="gs-section-title" markdown="1">
 
 # Name of website
 title: Nyein Chan Kyaw's Jekyll Page
@@ -11,6 +12,7 @@ title: Nyein Chan Kyaw's Jekyll Page
 # Your name to show in the footer
 author: Nyein Chan Kyaw
 
+</div>
 # --- List of links in the navigation bar --- #
 
 navbar-links:
@@ -99,6 +101,22 @@ post_search: true
 # --- Colours / background image --- #
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
+
+
+  
+.gs-section-title h1 { 
+     color: red ;
+     background-color:#ff6db7;
+     width:100%;
+     height:1em;
+     position:absolute;
+     z-index:-1;
+     filter:url(#marker-shape);
+     left:-0.25em;
+     top:0.1em;
+     padding:0 0.25em;
+}
+
 
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
