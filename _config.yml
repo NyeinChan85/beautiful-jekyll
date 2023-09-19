@@ -4,7 +4,6 @@
 # the initial set up you won't need to come back to this file often.
 
 # --- Required options --- #
-<div class="gs-section-title" markdown="1">
 
 # Name of website
 title: Nyein Chan Kyaw's Jekyll Page
@@ -12,7 +11,7 @@ title: Nyein Chan Kyaw's Jekyll Page
 # Your name to show in the footer
 author: Nyein Chan Kyaw
 
-</div>
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
@@ -104,20 +103,7 @@ post_search: true
 
 
   
-.gs-section-title h1 { 
-     border: 5px outset red;
-     background-color: lightblue;    
-     text-align: center;
-     navbar-col: "#F5F5F5"
-     navbar-text-col: "#404040"
-     navbar-children-col: "#F5F5F5"
-     page-col: "#FFFFFF"
-     link-col: "#008AFF"
-     hover-col: "#0085A1"
-     footer-col: "#F5F5F5"
-     footer-text-col: "#777777"
-     footer-link-col: "#404040"
-}
+
 
 
 navbar-col: "#F5F5F5"
