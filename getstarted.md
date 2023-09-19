@@ -22,6 +22,9 @@ by clicking the Fork button on the top right corner in GitHub.
 
 </div>
 
+
+<div class="gs-section-02" markdown="1">
+
 ## The easy way (recommended!)
 
 Getting started is *literally* as easy as 1-2-3 :smile:
@@ -30,9 +33,16 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
+</div>
+
+
+<div class="gs-section-03" markdown="1">
+     
 ### 1. Fork this project
 
 Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
+
+</div>
 
 ### 2. Rename the project to `<yourusername>.github.io`
 
@@ -65,14 +75,22 @@ If you followed the easy method above, then you already have your site and you c
 
 
 
-.gs-section-layout p {
-     font-size: 20px;
-     color: grey }
-}
-.gs-section-navbar h3 { 
-     color: blue }
+.gs-section-02 p {
+     
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+} 
 
-.gs-section-navbar p {
+.gs-section-02 h3 { 
+     text-align: center;
+     text-transform: uppercase;
+     color: #4CAF50;
+}     
+.gs-section-03 h3 {
+     color: blue;
+}   
+.gs-section-03 p {
      font-size: 15px;
 }     
 </style>
