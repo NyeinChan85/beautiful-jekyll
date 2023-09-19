@@ -62,8 +62,8 @@ If you followed the easy method above, then you already have your site and you c
 .gs-section-01 p {
      font-size: 30px;
 }
-.gs-section-layout h3 { 
-     color: red }
+
+
 
 .gs-section-layout p {
      font-size: 20px;
