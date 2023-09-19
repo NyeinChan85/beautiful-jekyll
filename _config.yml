@@ -15,13 +15,13 @@ url: "https://nyeinchan85.github.io"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Hi Everyone, My name is Nyein Chan Kyaw. I'm from New York City. 
-             I am currently pursuing a Master of Program Evaluation & Data Analysis program at Arizona State University."
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - My Jekyll page: "https://channyc.dev/"
-  Author's home: "https;//nyeinchan85.github.io"
+    - Getting Started: "getstarted"
+    - My Jekyll page: "https://nyeinchan85.github.io/"
+  Author's home: "https://deanattali.com/"
 
 # --- Logo --- #
 
